@@ -1,1 +1,1 @@
-https://github.com/goAzamat/Auto-slide-show/
+https://goazamat.github.io/Auto-slide-show/
